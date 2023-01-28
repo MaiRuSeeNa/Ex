@@ -3,7 +3,7 @@
 
 // 9. Jhompon Chomannee Sec 2 (wednesday)
 // 65543206047-4
-// https://www.youtube.com/watch?v=LxyvhcoAcck&ab_channel=NinePon
+// https://youtu.be/s-_WTz1w96A
 
 struct Node{
     int data;
